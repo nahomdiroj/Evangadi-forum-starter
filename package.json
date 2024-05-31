@@ -1,0 +1,19 @@
+{
+  "name": "evang-forum-starter",
+  "version": "1.0.0",
+  "description": "Evangadi forum",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahomdiroj/Evangadi-forum-starter.git"
+  },
+  "author": "Nahom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahomdiroj/Evangadi-forum-starter/issues"
+  },
+  "homepage": "https://github.com/nahomdiroj/Evangadi-forum-starter#readme"
+}
